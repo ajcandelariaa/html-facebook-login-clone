@@ -1,0 +1,132 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: #edf0f5;
+}
+.main-header{
+	width: 100%;
+	height: 80px;
+	background-color: #3b5998;
+}
+.main-header .container{
+	width: 70%;
+	margin: 0 auto;
+	padding-top: 25px;
+}
+.main-header .container .left-side-header{
+	width: 60%;
+	color: white;
+	float: left;
+}
+.main-header .container .right-side-header{
+	width: 40%;
+	float: right;
+	color: white;
+	margin-top: -5px;
+}
+.main-header .container .right-side-header .main-right-side-header-form{
+	width: 100%;
+}
+.main-header .container .right-side-header .main-right-side-header-form .one{
+	width: 40%;
+	float: left;
+	position: absolute;
+}
+.main-header .container .right-side-header .main-right-side-header-form .one .sub-text{
+	position: relative;
+	top: -5px;
+}
+.main-header .container .right-side-header .main-right-side-header-form .two .sub-text{
+	position: relative;
+	top: -5px;
+}
+.main-header .container .right-side-header .main-right-side-header-form .two{
+	width: 40%;
+	position: relative;
+	left: 200px;
+}
+
+.main-header .container .right-side-header .main-right-side-header-form .two .more-text{
+	position: relative;
+	top: 5px;
+}
+.main-header .container .right-side-header .main-right-side-header-form .three{
+	width: 20%;
+	position: absolute;
+	right: -80px;
+	top: 40px;
+	margin-top: -5px;
+}
+
+
+
+.main-content .container{
+	width: 70%;
+	margin: 0 auto;
+}
+.main-content .container .left-section{
+	width: 60%;
+	float: left;
+	position: relative;
+	top: 60px;
+}
+.main-content .container .right-section{
+	width: 40%;
+	float: right;
+	position: relative;
+	top: 30px;
+}
+.main-content .container .left-section .title-box{
+	width: 70%;
+}
+.main-content .container .left-section .sub-title-box{
+	position: relative;
+	top: 50px;
+}
+.main-content .container .left-section .sub-title-box .two{
+	position: relative;
+	top: 50px;
+}
+.main-content .container .left-section .sub-title-box .three{
+	position: relative;
+	top: 90px;
+}
+.main-content .container .right-section .form1{
+	position: relative;
+	top: 10px;
+}
+.main-content .container .right-section .form1 input.full-text{
+	width: 99%;
+	height: 40px;
+	border-radius: 5px;
+	margin-top: 10px;
+}
+
+.main-content .container .right-section .form1 input.half-text{
+	width: 48%;
+	height: 40px;
+	border-radius: 5px;
+}
+.main-content .container .right-section .form1 input.try{
+	position: relative;
+	right: 0px;
+}
+
+.main-content .container .right-section .birthday-form{
+	position: relative;
+	top: 30px;
+}
+.main-content .container .right-section .gender-form{
+	position: relative;
+	top: 40px;
+}
+.main-content .container .right-section .text-agreement{
+	position: relative;
+	top: 60px;
+}
+.main-content .container .right-section .button-agreement{
+	position: relative;
+	top: 80px;
+}
